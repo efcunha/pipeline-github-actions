@@ -9,9 +9,9 @@ Links úteis:
 - [Link Repositório pipeline-azure-devops](https://dev.azure.com/efcunha/pipeline-azure-devops)
 
 - [GitHub Action](https://docs.github.com/pt/actions/using-workflows/workflow-syntax-for-github-actions)
+- [Link Repositório pipeline-github-actions](https://github.com/efcunha/pipeline-github-actions.git)
 
 # Azure
-
 
 - [Provider Azurerm](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 - [Resource azurerm_resource_group](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/resource_group)
